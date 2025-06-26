@@ -29,6 +29,7 @@ Les dépendances :
 - [PySide6](#pyside6)
 - [Pillow](#pillow)
 - [Pygame](#pygame)
+- [DearPyGui](#dearpygui)
 - [Kivy](#kivy)
 - [Flutter](#Flutter)
 - [React Native](#react-native)
@@ -67,6 +68,10 @@ Pour afficher des images.
 ## Pygame
 
 Pour rajouter de la musique dans le fond.
+
+## DearPyGui
+
+Interface très moderne (comme unity ou unreal engine), super rapide à construire, idéale our UI de gestion, stats et HUD.
 
 ## Kivy
 
