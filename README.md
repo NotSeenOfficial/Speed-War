@@ -71,7 +71,7 @@ Pour rajouter de la musique dans le fond.
 
 ## DearPyGui
 
-Interface très moderne (comme unity ou unreal engine), super rapide à construire, idéale our UI de gestion, stats et HUD.
+DE LA MERDE
 
 ## Kivy
 
