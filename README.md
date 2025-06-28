@@ -8,11 +8,11 @@ La seconde sera sur mobile (android, IOS).
 
 ## Index
 
-- [main.py](/WHY%20YOU%20CLICK%20HERE%20!!!/WarSpeend/main.py) : lance l'application
-- [ui/](/WHY%20YOU%20CLICK%20HERE%20!!!/WarSpeend/ui/README.md) : lance les écrans (home.py, play.py, setting.py,...)
-- [assets/](/WHY%20YOU%20CLICK%20HERE%20!!!/WarSpeend/assets/README.md) : images (fond, logo, fiches véhicules, ...)
-- [data/](/WHY%20YOU%20CLICK%20HERE%20!!!/WarSpeend/data/README.md) : fichiers JSON (véhicules prédéfinis et custom)
-- [logic/](/WHY%20YOU%20CLICK%20HERE%20!!!/WarSpeend/logic/README.md) : logique métier (chargement, sauvegarde, choix des véhicules, etc.)
+- [main.py](main.py) : lance l'application
+- [ui/](game/ui/README.md) : lance les écrans (home.py, play.py, setting.py,...)
+- [assets/](assets/README.md) : images (fond, logo, fiches véhicules, ...)
+- [data/](game/data/README.md) : fichiers JSON (véhicules prédéfinis et custom)
+- [logic/](game/logic/README.md) : logique métier (chargement, sauvegarde, choix des véhicules, etc.)
 
 ## Prérequis
 
@@ -29,6 +29,7 @@ Les dépendances :
 - [PySide6](#pyside6)
 - [Pillow](#pillow)
 - [Pygame](#pygame)
+- [Pyglet](#pyglet)
 - [DearPyGui](#dearpygui)
 - [Kivy](#kivy)
 - [Flutter](#Flutter)
@@ -37,7 +38,7 @@ Les dépendances :
 
 ## Lecture des véhicules
 
-- Tous stocké dans 2 fichiers JSON ([data/](/WHY%20YOU%20CLICK%20HERE%20!!!/WarSpeend/data/README.md))
+- Tous stocké dans 2 fichiers JSON ([data/](game/data/README.md))
 - Charger lors du choix des différentes enregistrements
 - Affichier en Scroll horizontal
 
@@ -68,6 +69,10 @@ Pour afficher des images.
 ## Pygame
 
 Pour rajouter de la musique dans le fond.
+
+## Pyglet
+
+C'est me top du top
 
 ## DearPyGui
 

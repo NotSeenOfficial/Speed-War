@@ -1,6 +1,6 @@
 import pyglet
 
-def load_play_scene(window):
+def load_setting_scene(window):
     
     label = pyglet.text.Label(
         "Choisissez votre véhicule",
